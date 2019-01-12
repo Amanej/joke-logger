@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Amanej/joke-logger/issues"
   },
-  "homepage": "https://github.com/Amanej/joke-logger#readme"
+  "homepage": "https://github.com/Amanej/joke-logger#readme",
+  "bin": {
+    "jokes-logger": "./index.js"
+  }
 }
