@@ -15,7 +15,7 @@ if(process.argv.length > 2) {
 
 const app = {};
 app.config = {
-    'jokeIntervall': intervall ? intervall : 1000
+    'jokeIntervall': intervall ? intervall : 2000
 }
 
 app.printJoke = () => {
