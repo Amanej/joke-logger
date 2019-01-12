@@ -2,6 +2,10 @@
 
 Need a laugh ? Then enjoy.
 
+## Install
+
+    npm install -g jokes-logger
+
 ## Set intervall
 
 Intervall by default is 2000. 
